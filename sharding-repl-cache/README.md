@@ -1,3 +1,7 @@
+# ВНИМАНИЕ! Ссылка на скриншот с работающим решением: https://prnt.sc/6bUE82pTFljp
+
+# ВНИМАНИЕ! Конфигурационный сервер configSrv инициализирован в шаге 2. Роутер mongos_router инициализирован в шаге 5.
+
 # ВНИМАНИЕ! Ссылка на диаграмму: https://drive.google.com/file/d/17AKeJktq7vuWrbSdlUtDaPI01doXk-VD/view?usp=sharing
 
 # 1. Запуск MongoDB и приложения
